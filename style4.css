@@ -1,0 +1,10 @@
+#card_bg { 
+    width: 248px;
+    height: 248px;
+    padding: 5px;
+    background-color: red;
+    background-image: url("https://res.cloudinary.com/demzv68o6/image/upload/il28ma49xl6junoorgea.jpg");
+    background-size: cover;
+    background-position: center center;
+}
+
